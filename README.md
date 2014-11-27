@@ -6,7 +6,7 @@ An [AsciiDoc](http://asciidoc.org/) plugin for generating
 source.
 
 To install the 9man plugin download
-[9man.zip](https://github.com/powerman/asciidoc-9man-backend/releases/download/1.1.0/9man.zip)
+[9man.zip](https://github.com/powerman/asciidoc-9man-backend/releases/download/1.1.1/9man.zip)
 and install it with `asciidoc`:
 
 ```
